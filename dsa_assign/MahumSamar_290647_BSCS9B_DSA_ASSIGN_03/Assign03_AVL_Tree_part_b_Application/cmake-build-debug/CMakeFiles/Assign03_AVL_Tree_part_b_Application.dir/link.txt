@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Assign03_AVL_Tree_part_b_Application.dir/objects.a
+C:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\Assign03_AVL_Tree_part_b_Application.dir/objects.a @CMakeFiles\Assign03_AVL_Tree_part_b_Application.dir\objects1.rsp
+C:\MinGW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Assign03_AVL_Tree_part_b_Application.dir/objects.a -Wl,--no-whole-archive  -o Assign03_AVL_Tree_part_b_Application.exe -Wl,--out-implib,libAssign03_AVL_Tree_part_b_Application.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Assign03_AVL_Tree_part_b_Application.dir\linklibs.rsp

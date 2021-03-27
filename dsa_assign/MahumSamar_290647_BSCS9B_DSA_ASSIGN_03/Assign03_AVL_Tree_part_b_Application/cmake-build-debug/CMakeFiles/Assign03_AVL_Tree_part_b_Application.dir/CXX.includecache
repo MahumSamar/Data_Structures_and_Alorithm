@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Maham/OneDrive - National University of Sciences & Technology/Desktop/c++ programs/Assign03_AVL_Tree_part_b_Application/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+
